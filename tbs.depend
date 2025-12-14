@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1765721959 source:c:\users\amirh\tbs\main.cpp
+	"header.h"
+	<iostream>
+
+1765725750 c:\users\amirh\tbs\header.h
+	<iostream>
+
+1765725750 source:c:\users\amirh\tbs\header.cpp
+	"header.h"
+	<iostream>
+
