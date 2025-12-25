@@ -1,0 +1,21 @@
+Commit Log
+
+- Inisialisasi proyek, pembuatan repository, serta penyusunan struktur file main.cpp, header.h, dan header.cpp.
+
+- Pendefinisian struktur data InfoLagu, ElmLagu, dan ListLagu sebagai Double Linked List untuk mengelola library lagu.
+
+- Implementasi fungsi dasar Double Linked List meliputi pembuatan list, alokasi node lagu, penambahan lagu (insert), penghapusan lagu (delete), pencarian lagu, dan penampilan seluruh lagu.
+
+- Perancangan struktur Multi Linked List untuk playlist, termasuk struktur playlist, node relasi lagu–playlist, serta pengelolaan hubungan banyak ke banyak antara lagu dan playlist.
+
+- Implementasi fitur manajemen playlist seperti pembuatan playlist, penghapusan playlist, penambahan lagu ke playlist, penghapusan lagu dari playlist, dan penampilan isi playlist.
+
+- Penambahan fitur pemutaran lagu yang menampilkan detail lagu, serta navigasi lagu berikutnya dan sebelumnya baik berdasarkan library maupun playlist aktif.
+
+- Implementasi menu Admin untuk pengelolaan data lagu dan menu User untuk pengelolaan playlist serta pemutaran lagu.
+
+- Penambahan validasi input untuk mencegah kesalahan masukan dari pengguna saat program dijalankan.
+
+- Penyempurnaan alur program, perbaikan bug, dan penyesuaian logika pemutaran lagu.
+
+- Penambahan dokumentasi berupa README dan commit log untuk memudahkan pemahaman dan penggunaan program.
